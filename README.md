@@ -1,6 +1,6 @@
 # Aikonet
 
-Welcome, this my botnet called aikonet, this is a ddos tool I done for my portfolio.
+Welcome, this a tool I done called aikonet, this is a dos (denail of service) tool that I done only for my portfolio.
 
 Requeriments:
 
