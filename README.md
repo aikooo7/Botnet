@@ -1,4 +1,4 @@
-# Botnet
+# Aikonet
 
 Welcome, this my botnet called aikonet, this is a ddos tool I done for my portfolio.
 
